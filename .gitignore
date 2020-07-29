@@ -1,7 +1,6 @@
-Initiation/*/.idea/*
-Initiation/*/out/production/initiation/*
+Initiation/*/.idea/*.xml
+Initiation/*/out/production/*/*.class
 Initiation/*/*.iml
-POO/*/.idea/*
-POO/*/out/*
-POO/*/out/production/*/*
+POO/*/.idea/*.xml
+POO/*/out/production/*/*.class
 POO/*/.iml
